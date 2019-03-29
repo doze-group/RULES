@@ -1,6 +1,6 @@
 # PUNTOS 👨‍🚀 ⚖️
 
-> Esta función estará dinamica desde requiem-platform
+> Esta función estará dinamica desde requiem-platform ✍️
 
 |      NOMBRE       | ID-GENERAL | CANTIDAD-ACTUAL | PERDIDOS | GANADOS |
 | :---------------: | :--------: | :-------------: | :------: | :-----: |

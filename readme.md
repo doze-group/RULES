@@ -19,7 +19,7 @@ _"Reglas, sin ellas viviriamos como animales" Ian McShane(Winston) - 2017_
 
 3. Para incentivar la documentación, sentido de pertenencia y superación personal, se asignarán 10 puntos a cada integrante, que en caso de:
 
-> No poder resolver alguna tarea, o tener algún error del cual no se hn invertido **minimo** ``3 días`` **maximo** ``5 días``. Al pedir ayuda, se perderán **1 punto(s)**.
+> No poder resolver alguna tarea, o tener algún error del cual no se han invertido **minimo** ``3 días`` **maximo** ``5 días``. Al pedir ayuda, se perderán **1 punto(s)**.
 
 > Olvidar la contraseña o perder de alguna manera explicable o inexplicable la cuenta de github, se perderán **5 punto(s)**.
 
