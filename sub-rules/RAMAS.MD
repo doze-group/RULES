@@ -1,4 +1,4 @@
-# RAMA 1
+# RAMA 1 🤖
 
 |      NOMBRES      | RAMA-ID | ID-GENERAL |
 | :---------------: | :-----: | :--------: |
@@ -9,7 +9,7 @@
 |  FERNANDO ARAUJO  |    5    |    D1-5    |
 | CHRISTIAN PEARSON |    6    |    D1-6    |
 
-# RAMA 2
+# RAMA 2 🤖
 
 |    NOMBRES    | RAMA-ID | ID-GENERAL |
 | :-----------: | :-----: | :--------: |

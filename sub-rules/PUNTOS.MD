@@ -1,4 +1,4 @@
-# PUNTOS
+# PUNTOS 👨‍🚀 ⚖️
 
 > Esta función estará dinamica desde requiem-platform
 
